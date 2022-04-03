@@ -1,0 +1,258 @@
+/*my rulz*/
+body
+{
+
+}
+
+.container
+{
+    width: 1170px;
+    margin: auto
+}
+
+.clear-fix
+{
+    clear: both;
+}
+
+hr
+{
+    width: 1170px;
+    color: #fff;
+    margin: 20px
+}
+
+img
+{
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #020202;
+    cursor: pointer
+}
+
+/*Start header */
+header
+{
+    background-image: url(../Images/1.jpg);
+    background-size: cover;
+    height: 820px;
+    margin-bottom: 100px
+}
+
+header .container h2
+{
+    font-family: "Brush Script MT", cursive;
+    font-size: 60px;
+    margin: auto;
+    text-align: center;
+    color: #fff
+}
+
+header .container h1
+{
+    padding-top: 220px;
+    color: #fff;
+    font-size: 60px
+}
+
+header .container button
+{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border: 2px solid #ff9933;
+    background-color: #ff9933;
+    color: #fff;
+    cursor: pointer
+}
+/*End header */
+
+/*Start 1st s */
+
+.first .container h2
+{
+    text-align: center;
+    color: #2b63a5
+}
+
+.first .container div
+{
+    float: left;
+    text-align: center;
+    width: 30%;
+    margin: 1.5%
+}
+
+.first .container div i
+{
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    padding: 40px 20px 0 20px;
+    color: #2b63a5;
+    border-radius: 50%;
+    background-color: #fff;
+    box-shadow: 5px 5px 5px #b2b2b2, -1px -1px 5px #b2b2b2
+}
+
+.first .container div a
+{
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    color: #2b63a5
+}
+
+.first .container div p
+{
+    color: #7760c0
+}
+/*End 1st s */
+
+/*Start 2ed s */
+
+.seconed
+{
+    background-color: #efefef;
+    height: 400px;
+    margin-top: 480px
+}
+.seconed .container div
+{
+    float: left;
+    width: 48%;
+    height: 380px;
+    margin: 1%;
+    text-align: center;
+}
+
+.seconed .container .left img
+{
+    width: 100%;
+    height: 100%
+}
+
+q
+{
+  font-size: 35px ;
+  color: #7760c0
+} 
+/*End 2ed s */
+
+/*Start 3rd s */
+
+.third .container h2
+{
+    text-align: center;
+    padding: 50px;
+    color: #2b63a5
+}
+
+.third .container div
+{
+    float: left;
+    text-align: center;
+    width: 30%;
+    margin: 1.5%;
+    padding-bottom: 100px
+}
+
+.third .container div img
+{
+    width: 300px;
+    height: 300px
+}
+/*Start 3rd s */
+
+/*Start fourth s */
+
+.fourth .container h2
+{
+    text-align: center;
+    color: #2b63a5
+}
+
+.fourth .container div
+{
+    text-align: center
+}
+
+.fourth .container div img
+{
+    margin: 20px
+}
+/*End fourth s */
+
+/*Start fifth s*/
+.fifth
+{
+    background-color: #6d7296;
+    color: #fff;
+    text-align: center;
+    height: 400px
+}
+
+.fifth .container h1
+{
+    padding-top: 40px;
+    font-size: 60px
+}
+
+.fifth .container button
+{
+    border: 2px solid #fff;
+    color: #6d7296;
+    height: 50px;
+    width: 200px;
+    cursor: pointer
+}
+/* End fifth s*/
+
+/*Start footer s*/
+
+footer .container div
+{
+    margin: 20px
+}
+
+footer .container p
+{
+    font-family: "Brush Script MT", cursive;
+    font-size: 30px;
+    float: left;
+    margin: 15px;
+    color: #6d7296
+}
+
+footer .container ul
+{
+    float: right;
+    list-style: none
+}
+
+footer .container ul li
+{
+    float: left;
+    margin-left: 50px;
+}
+
+footer .container ul li a
+{
+    text-decoration: none;
+    color: #6d7296
+}
+
+footer .container .clear-fix span
+{
+    float: left;
+    margin: 15px;
+    color: #acaebd
+}
+
+footer .container .clear-fix i
+{
+    float: right;
+    color: #6d7296;
+    margin: 15px
+}
+/*End footer s*/
+
